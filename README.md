@@ -1,5 +1,5 @@
 # Personality-Tests
-UIC CS251 Project 2: Personality Quiz that presents a series of questions, and determines which fictional character the user is most similar to.
+UIC CS251 Project 2, Spring 2022: Personality Quiz that presents a series of questions, and determines which fictional character the user is most similar to.
 
 Project Summary:
 This project resembles a personality quiz that can be found on social media. It presents the user with a series of statements and asks how much you agree with each of them. At the end, you’re given your classification – whether that’s which Hogwarts house you’re in, which Game of Thrones character you most resemble, or even weirder things like which sandwich best represents you.
